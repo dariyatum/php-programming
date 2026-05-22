@@ -2,7 +2,7 @@
 // SAMPLE CODE: Ready to run.
 // Use this to show students how variables hold values and combine.
 
-$studentName = "Alice Smith";
+$studentName = "Tum Dariya";
 $currentCourse = "Web Mobile Application Development (WMAD)";
 
 // The dot (.) operator is used for Concatenation (joining strings)

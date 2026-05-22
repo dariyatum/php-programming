@@ -17,10 +17,10 @@ $examScore = 78.5;
 $attendancePercent = 90;
 
 // TODO: Write the mathematical expression here
-$averageScore = ;
+$averageScore = 66;
 
 // TODO: Write the logical evaluation comparison here (Must result in true or false)
-$hasPassed = ;
+$hasPassed = "Pass";
 
 ?>
 
